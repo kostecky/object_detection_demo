@@ -6,33 +6,21 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>650</width>
-		<height>434</height>
+		<width>800</width>
+		<height>450</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>barbell</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>188</xmin>
-			<ymin>1</ymin>
-			<xmax>350</xmax>
-			<ymax>101</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>barbell</name>
-		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>10</xmin>
-			<ymin>330</ymin>
-			<xmax>81</xmax>
-			<ymax>386</ymax>
+			<xmin>360</xmin>
+			<ymin>292</ymin>
+			<xmax>485</xmax>
+			<ymax>412</ymax>
 		</bndbox>
 	</object>
 </annotation>
