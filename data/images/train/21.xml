@@ -1,0 +1,38 @@
+<annotation>
+	<folder>resized_images</folder>
+	<filename>21.jpg</filename>
+	<path>/Users/kris/Desktop/Barbell Images/resized_images/21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1800</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>barbell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>709</ymin>
+			<xmax>740</xmax>
+			<ymax>1122</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>barbell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>980</xmin>
+			<ymin>700</ymin>
+			<xmax>1386</xmax>
+			<ymax>1113</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,13 +1,13 @@
 <annotation>
 	<folder>resized_images</folder>
-	<filename>43.jpg</filename>
-	<path>/Users/kris/Desktop/Barbell Images/resized_images/43.jpg</path>
+	<filename>43.png</filename>
+	<path>/Users/kris/Desktop/Barbell Images/resized_images/43.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>200</width>
-		<height>300</height>
+		<width>1500</width>
+		<height>1125</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>75</xmin>
-			<ymin>213</ymin>
-			<xmax>93</xmax>
-			<ymax>259</ymax>
+			<xmin>498</xmin>
+			<ymin>748</ymin>
+			<xmax>738</xmax>
+			<ymax>954</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>barbell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1003</xmin>
+			<ymin>92</ymin>
+			<xmax>1282</xmax>
+			<ymax>348</ymax>
 		</bndbox>
 	</object>
 </annotation>
